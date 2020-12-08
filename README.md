@@ -16,9 +16,9 @@ If streamer has successfully started streaming and the viewers are properly conn
 
 
 
-![streamer/viewer](https://github.com/soihateu/LocalVideoStreaming/images/image1.png)
+![streamer/viewer](https://github.com/soihateu/LocalVideoStreaming/tree/main/images/image1.png)
 
 
-![Viewer](https://github.com/soihateu/LocalVideoStreaming/images/image2.png)
+![Viewer](https://github.com/soihateu/LocalVideoStreaming/tree/main/images/image2.png)
 
 
