@@ -4,7 +4,7 @@
   1. Run login.py
   2. Login using username and password specified in username.txt and password.txt (ie. username: eric and password: tester)
   3. Start server by entering '1'
-  4. Run steps 1 and 2 again on another client
+  4. Repeat steps 1 and 2 again on another client
   5. Join stream by entering '2'
   6. Enter IP address of streaming device
   
