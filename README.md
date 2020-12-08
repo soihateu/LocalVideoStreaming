@@ -1,6 +1,6 @@
 # LocalVideoStreaming
 
-### Instructions
+## Instructions
   1. Run login.py
   2. Login using username and password specified in username.txt and password.txt (ie. username: eric and password: tester)
   3. Start server by entering '1'
@@ -12,7 +12,7 @@
 **At any time during the stream, both streamer and viewers can enter the key 'p' to pause and/or resume the stream.**
 
 
-**If streamer has successfully started streaming and the viewers are properly connected, each viewer will have a chat window and a stream open.**
+If streamer has successfully started streaming and the viewers are properly connected, each viewer will have a chat window and a stream open.
 
 
 
